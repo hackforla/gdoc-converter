@@ -1,1 +1,0 @@
-./autogenerate-seeddata-json.sh auth
